@@ -1,2 +1,0 @@
-sveciaost.github.io
-===================
